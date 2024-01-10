@@ -1,6 +1,6 @@
 # Laboratorio 1 - Acceso a Datos SQL
 ## Acceso a repositorios de Datos SQL
-> Si copias copia bien jeej
+> Gracias por ver mi repositorio
 
 ` Para clonar el repositorio se debe ejecutar el siguiente comando:`
 
